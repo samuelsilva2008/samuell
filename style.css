@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d3c6c6; /* Escolha sua cor */
+    text-align: center;
+    
+    }
+    header {
+    background-color: #302929; /* Escolha sua cor */
+    color: rgb(212, 35, 35);
+    padding: 20px;
+    }
+    button {
+    font-size: 16px;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;}
